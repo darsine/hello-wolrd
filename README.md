@@ -1,2 +1,3 @@
 # hello-wolrd
-github guide
+github guide example continued
+This file is now first time modified.
